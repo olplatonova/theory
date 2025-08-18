@@ -1,24 +1,6 @@
 # Теория тестирования
 
 
-# Project Title
+# Определение методов, типов и уровней тестирования для приложения интернет-магазин
 
-A brief description of what this project does and who it's for
-
-
-## Appendix
-
-Any additional information goes here
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
+https://docs.google.com/spreadsheets/d/1Gl_xANiKA3z9cM6hQekxLoH1fi9Dn8cAwBVmbs0iYeE/edit?gid=1647196050#gid=1647196050
